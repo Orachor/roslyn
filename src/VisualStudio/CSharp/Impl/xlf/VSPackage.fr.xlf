@@ -91,7 +91,7 @@ Detect and offer editor features for JSON strings;
 Use enhanced colors;
 Editor Color Scheme;
 Inheritance Margin;</source>
-        <target state="needs-review-translation">Souligner les variables réaffectées;
+        <target state="translated">Souligner les variables réaffectées;
 Afficher les indicateurs inline;
 Afficher les diagnostics pour les fichiers fermés;
 Mettre en couleurs l'expression régulière; 
@@ -138,8 +138,15 @@ préférer les propriétés de levée d'exceptions;
 préférer les propriétés automatiques;
 regex;
 expression régulière;
-Utiliser des couleurs améliorées;
-Modèle de couleurs de l'éditeur;
+ Mettre en évidence les composants connexes sous le curseur; 
+Signaler les expressions régulières invalides
+; 
+JSON; 
+Coloriser les chaînes JSON; 
+Signaler les chaînes JSON invalides; 
+Détecter et proposer des fonctionnalités d'éditeur pour les chaînes JSON; 
+Utiliser des couleurs améliorées; 
+Schéma de couleurs de l'éditeur; 
 Marge d'héritage;</target>
         <note>C# Advanced options page keywords</note>
       </trans-unit>
